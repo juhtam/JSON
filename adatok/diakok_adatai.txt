@@ -1,0 +1,6 @@
+vnév knév kor e-mail kollegista
+Kis Péter 16 kiss@suli.hu 0
+Nagy Zoé 15 null 1
+Tóth Géza 17 gezu@gmail.com 1
+Kovács Tibor 15 koti@gmail.com 0
+Horvát Éva 15 horeva@moriczref.hu 1
