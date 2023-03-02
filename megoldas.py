@@ -100,3 +100,4 @@ print(szamok)
 paros_szamok=[szam for szam in szamok if szam%2==0 ] # Leképezés
 print(paros_szamok)
 """
+#5. feladat
