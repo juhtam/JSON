@@ -49,7 +49,7 @@ print(diakok)
 def osszegzes(lista):
     osszeg = 0
     for diak in lista:
-        osszeg + =diak["kor"]
+        osszeg += diak["kor"]
     return osszeg
 
 osszeg = osszegzes(diakok)
